@@ -30,7 +30,7 @@
   <a href = "mailto:murilloacouto@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/murillo-alves-couto-1b072828a/" target="_blank">
+  <a href="https://www.linkedin.com/in/murillocouto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
   <a href="https://portfolio-murillo-couto.vercel.app/" target="_blank">
