@@ -27,7 +27,7 @@
 </div>
 
 <div align="center"> 
-  <a href = "mailto:murilloacouto@outlook.com">
+  <a href = "mailto:murilloacouto@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/murillo-alves-couto-1b072828a/" target="_blank">
