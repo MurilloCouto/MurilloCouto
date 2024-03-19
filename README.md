@@ -11,7 +11,13 @@
 <div align="center">
   <h3>Main skills → Front-end</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,ts,nextjs)](https://skillicons.dev)
+</div>
+
+<div align="center">
+  <h3>Main skills → Back-end</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)](https://skillicons.dev)
 </div>
 
 <div align="center">
