@@ -23,7 +23,7 @@
 <div align="center">
   <h3>My Programming tools</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=github,vercel,vite,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vite,vscode,netlify)](https://skillicons.dev)
 </div>
 
 <div align="center">
