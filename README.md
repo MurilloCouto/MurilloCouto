@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAC227&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Murillo+Couto;Sou+um+desenvolvedor+Full-Stack;Seja+bem-vindo!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Murillo+Couto;I'm+a+Full-Stack+developer;Be+Welcome!)](https://git.io/typing-svg)<br>
 
 
 <div align="center">  
@@ -8,25 +8,25 @@
 </div>
 
 <div align="center">
-  <h3>Principais habilidades → Front-end</h3>
+  <h3>Main skills → Front-end</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,ts,nextjs)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>Principais habilidades → Back-end</h3>
+  <h3>Main skills → Back-end</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>Minhas ferramentas de programação</h3>
+  <h3>My Programming tools</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,netlify)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>Minhas ferramentas de design</h3>
+  <h3>My Design tools</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 </div>
