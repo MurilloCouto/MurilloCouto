@@ -8,25 +8,25 @@
 </div>
 
 <div align="center">
-  <h3>Main skills → Front-end</h3>
+  <h3>Principais habilidades → Front-end</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,ts,nextjs)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>Main skills → Back-end</h3>
+  <h3>Principais habilidades → Back-end</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>My Programming tools</h3>
+  <h3>Minhas ferramentas de programação</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,netlify)](https://skillicons.dev)
 </div>
 
 <div align="center">
-  <h3>My Design tools</h3>
+  <h3>Minhas ferramentas de design</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 </div>
